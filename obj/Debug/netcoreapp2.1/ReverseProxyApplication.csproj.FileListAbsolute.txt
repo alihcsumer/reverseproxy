@@ -1,0 +1,15 @@
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\bin\Debug\netcoreapp2.1\ReverseProxyApplication.deps.json
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\bin\Debug\netcoreapp2.1\ReverseProxyApplication.runtimeconfig.json
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\bin\Debug\netcoreapp2.1\ReverseProxyApplication.runtimeconfig.dev.json
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\bin\Debug\netcoreapp2.1\ReverseProxyApplication.dll
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\bin\Debug\netcoreapp2.1\ReverseProxyApplication.pdb
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.RazorAssemblyInfo.cache
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.RazorAssemblyInfo.cs
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.AssemblyInfoInputs.cache
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.AssemblyInfo.cs
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.RazorTargetAssemblyInfo.cache
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.dll
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.pdb
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ali.sumer\Downloads\netcore2-reverse-proxy-master\netcore2-reverse-proxy-master\ReverseProxyApplication\obj\Debug\netcoreapp2.1\ReverseProxyApplication.csprojAssemblyReference.cache
